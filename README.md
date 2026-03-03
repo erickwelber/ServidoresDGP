@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-Resultados atuais com informações de dados de pessal por meio da ferramenta de visualização Power BI a partir da tecnologia business intelligence
+Resultados atuais com informações de dados de pessoal por meio da ferramenta de visualização Power BI a partir da tecnologia business intelligence
 
 ## Project Organization
 
